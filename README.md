@@ -1,38 +1,42 @@
-# 📊 Proiect SQL – Gestionarea unei Unități Turistice
+## 📊 SQL Project – Managing a Tourist Facility
 
-Acest proiect a fost realizat pentru automatizarea și eficientizarea proceselor dintr-o unitate turistică ce oferă cazare în cabane, 
-precum și diverse facilități și servicii pentru clienți. Scopul este crearea unei baze de date relaționale care să susțină activitățile administrative 
-și operaționale ale unității.
-
-
-## 🧠 Scopul Proiectului
-
-- Gestionarea cazărilor și rezervărilor în cabane
-- Organizarea informațiilor despre clienți
-- Administrarea serviciilor și facilităților disponibile
-- Automatizarea activităților desfășurate în unitatea turistică
+This project was created to automate and streamline the processes of a tourist facility that offers accommodation in cabins, as well as various facilities and services for clients. 
+The goal is to create a relational database to support the administrative and operational activities of the facility.
 
 
-## 🛠️ Tehnologii Folosite
+## 🧠 Project Goal
 
-- Limbaj: SQL
-- SGBD: Oracle Database
+- Managing cabin bookings and reservations
+- Organizing client information
+- Administering available services and facilities
+- Automating activities carried out in the tourist facility
+
+
+## 🛠️ Technologies Used
+
+- Language: SQL
+- DBMS: Oracle Database
 - IDE: SQL Developer
 
 
-## 📂 Structura Proiectului
+## 📂 Project Structure
 
-- `Proiect SBD 20241.sql` – Conține:
-  - Crearea tabelelor
-  - Definirea cheilor primare și străine
-  - Inserarea datelor în tabele
-  - Interogări SQL (JOIN-uri, subinterogări, funcții etc.)
+- Proiect SBD 20241.sql – Contains:
+  - Table creation
+  - Defining primary and foreign keys
+  - Inserting data into tables
+  - SQL queries (JOINS, subqueries, functions, etc.)
 
 
-## ▶️ Cum Rulezi Proiectul
+## ▶️ How to Run the Project
 
-1. Deschide Oracle SQL Developer
-2. Creează o conexiune către baza de date locală sau una dedicată proiectului
-3. Deschide fișierul `Proiect SBD 20241.sql`
-4. Rulează scriptul pentru a crea structura bazei de date și a insera datele
-5. Explorează datele și interogările pentru a înțelege logica aplicației
+1. Open Oracle SQL Developer
+2. Create a connection to the local database or a dedicated database for the project
+3. Open the file Proiect SBD 20241.sql
+4. Run the script to create the database structure and insert the data
+5. Explore the data and queries to understand the application logic
+
+## 📝 SQL Examples
+- To see how the database structure works and how various queries are executed, you can explore some SQL examples from the project via the link below.
+- [https://livesql.oracle.com/ords/livesql/s/c9q4kuxenkt4xw5irdmwuhb1j]
+  
